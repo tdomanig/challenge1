@@ -1,0 +1,623 @@
+Datenschutzerklärung
+Einleitung und Überblick
+
+Wir haben diese Datenschutzerklärung (Fassung 22.04.2022-122007175) verfasst, um Ihnen gemäß der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/679 und anwendbaren nationalen Gesetzen zu erklären, welche personenbezogenen Daten (kurz Daten) wir als Verantwortliche – und die von uns beauftragten Auftragsverarbeiter (z. B. Provider) – verarbeiten, zukünftig verarbeiten werden und welche rechtmäßigen Möglichkeiten Sie haben. Die verwendeten Begriffe sind geschlechtsneutral zu verstehen.
+Kurz gesagt: Wir informieren Sie umfassend über Daten, die wir über Sie verarbeiten.
+
+Datenschutzerklärungen klingen für gewöhnlich sehr technisch und verwenden juristische Fachbegriffe. Diese Datenschutzerklärung soll Ihnen hingegen die wichtigsten Dinge so einfach und transparent wie möglich beschreiben. Soweit es der Transparenz förderlich ist, werden technische Begriffe leserfreundlich erklärt, Links zu weiterführenden Informationen geboten und Grafiken zum Einsatz gebracht. Wir informieren damit in klarer und einfacher Sprache, dass wir im Rahmen unserer Geschäftstätigkeiten nur dann personenbezogene Daten verarbeiten, wenn eine entsprechende gesetzliche Grundlage gegeben ist. Das ist sicher nicht möglich, wenn man möglichst knappe, unklare und juristisch-technische Erklärungen abgibt, so wie sie im Internet oft Standard sind, wenn es um Datenschutz geht. Ich hoffe, Sie finden die folgenden Erläuterungen interessant und informativ und vielleicht ist die eine oder andere Information dabei, die Sie noch nicht kannten.
+Wenn trotzdem Fragen bleiben, möchten wir Sie bitten, sich an die unten bzw. im Impressum genannte verantwortliche Stelle zu wenden, den vorhandenen Links zu folgen und sich weitere Informationen auf Drittseiten anzusehen. Unsere Kontaktdaten finden Sie selbstverständlich auch im Impressum.
+Anwendungsbereich
+
+Diese Datenschutzerklärung gilt für alle von uns im Unternehmen verarbeiteten personenbezogenen Daten und für alle personenbezogenen Daten, die von uns beauftragte Firmen (Auftragsverarbeiter) verarbeiten. Mit personenbezogenen Daten meinen wir Informationen im Sinne des Art. 4 Nr. 1 DSGVO wie zum Beispiel Name, E-Mail-Adresse und postalische Anschrift einer Person. Die Verarbeitung personenbezogener Daten sorgt dafür, dass wir unsere Dienstleistungen und Produkte anbieten und abrechnen können, sei es online oder offline. Der Anwendungsbereich dieser Datenschutzerklärung umfasst:
+
+    alle Onlineauftritte (Websites, Onlineshops), die wir betreiben
+    Social Media Auftritte und E-Mail-Kommunikation
+    mobile Apps für Smartphones und andere Geräte
+
+Kurz gesagt: Die Datenschutzerklärung gilt für alle Bereiche, in denen personenbezogene Daten im Unternehmen über die genannten Kanäle strukturiert verarbeitet werden. Sollten wir außerhalb dieser Kanäle mit Ihnen in Rechtsbeziehungen eintreten, werden wir Sie gegebenenfalls gesondert informieren.
+Rechtsgrundlagen
+
+In der folgenden Datenschutzerklärung geben wir Ihnen transparente Informationen zu den rechtlichen Grundsätzen und Vorschriften, also den Rechtsgrundlagen der Datenschutz-Grundverordnung, die uns ermöglichen, personenbezogene Daten zu verarbeiten.
+Was das EU-Recht betrifft, beziehen wir uns auf die VERORDNUNG (EU) 2016/679 DES EUROPÄISCHEN PARLAMENTS UND DES RATES vom 27. April 2016. Diese Datenschutz-Grundverordnung der EU können Sie selbstverständlich online auf EUR-Lex, dem Zugang zum EU-Recht, unter https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A32016R0679 nachlesen.
+
+Wir verarbeiten Ihre Daten nur, wenn mindestens eine der folgenden Bedingungen zutrifft:
+
+    Einwilligung (Artikel 6 Absatz 1 lit. a DSGVO): Sie haben uns Ihre Einwilligung gegeben, Daten zu einem bestimmten Zweck zu verarbeiten. Ein Beispiel wäre die Speicherung Ihrer eingegebenen Daten eines Kontaktformulars.
+    Vertrag (Artikel 6 Absatz 1 lit. b DSGVO): Um einen Vertrag oder vorvertragliche Verpflichtungen mit Ihnen zu erfüllen, verarbeiten wir Ihre Daten. Wenn wir zum Beispiel einen Kaufvertrag mit Ihnen abschließen, benötigen wir vorab personenbezogene Informationen.
+    Rechtliche Verpflichtung (Artikel 6 Absatz 1 lit. c DSGVO): Wenn wir einer rechtlichen Verpflichtung unterliegen, verarbeiten wir Ihre Daten. Zum Beispiel sind wir gesetzlich verpflichtet Rechnungen für die Buchhaltung aufzuheben. Diese enthalten in der Regel personenbezogene Daten.
+    Berechtigte Interessen (Artikel 6 Absatz 1 lit. f DSGVO): Im Falle berechtigter Interessen, die Ihre Grundrechte nicht einschränken, behalten wir uns die Verarbeitung personenbezogener Daten vor. Wir müssen zum Beispiel gewisse Daten verarbeiten, um unsere Website sicher und wirtschaftlich effizient betreiben zu können. Diese Verarbeitung ist somit ein berechtigtes Interesse.
+
+Weitere Bedingungen wie die Wahrnehmung von Aufnahmen im öffentlichen Interesse und Ausübung öffentlicher Gewalt sowie dem Schutz lebenswichtiger Interessen treten bei uns in der Regel nicht auf. Soweit eine solche Rechtsgrundlage doch einschlägig sein sollte, wird diese an der entsprechenden Stelle ausgewiesen.
+
+Zusätzlich zu der EU-Verordnung gelten auch noch nationale Gesetze:
+
+    In Österreich ist dies das Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (Datenschutzgesetz), kurz DSG.
+    In Deutschland gilt das Bundesdatenschutzgesetz, kurz BDSG.
+
+Sofern weitere regionale oder nationale Gesetze zur Anwendung kommen, informieren wir Sie in den folgenden Abschnitten darüber.
+Kontaktdaten des Verantwortlichen
+
+Sollten Sie Fragen zum Datenschutz oder zur Verarbeitung personenbezogener Daten haben, finden Sie nachfolgend die Kontaktdaten der verantwortlichen Person bzw. Stelle:
+Musterfirma GmbH
+Musterstraße 47, 12312 Musterstadt, Musterland
+Vertretungsberechtigt: Markus Mustermann
+E-Mail: office@musterfirma.com
+Telefon: 01234/56789
+Impressum: https://www.testfirma.at/impressum/
+Speicherdauer
+
+Dass wir personenbezogene Daten nur so lange speichern, wie es für die Bereitstellung unserer Dienstleistungen und Produkte unbedingt notwendig ist, gilt als generelles Kriterium bei uns. Das bedeutet, dass wir personenbezogene Daten löschen, sobald der Grund für die Datenverarbeitung nicht mehr vorhanden ist. In einigen Fällen sind wir gesetzlich dazu verpflichtet, bestimmte Daten auch nach Wegfall des ursprüngliches Zwecks zu speichern, zum Beispiel zu Zwecken der Buchführung.
+
+Sollten Sie die Löschung Ihrer Daten wünschen oder die Einwilligung zur Datenverarbeitung widerrufen, werden die Daten so rasch wie möglich und soweit keine Pflicht zur Speicherung besteht, gelöscht.
+
+Über die konkrete Dauer der jeweiligen Datenverarbeitung informieren wir Sie weiter unten, sofern wir weitere Informationen dazu haben.
+Rechte laut Datenschutz-Grundverordnung
+
+Gemäß Artikel 13, 14 DSGVO informieren wir Sie über die folgenden Rechte, die Ihnen zustehen, damit es zu einer fairen und transparenten Verarbeitung von Daten kommt:
+
+    Sie haben laut Artikel 15 DSGVO ein Auskunftsrecht darüber, ob wir Daten von Ihnen verarbeiten. Sollte das zutreffen, haben Sie Recht darauf eine Kopie der Daten zu erhalten und die folgenden Informationen zu erfahren:
+        zu welchem Zweck wir die Verarbeitung durchführen;
+        die Kategorien, also die Arten von Daten, die verarbeitet werden;
+        wer diese Daten erhält und wenn die Daten an Drittländer übermittelt werden, wie die Sicherheit garantiert werden kann;
+        wie lange die Daten gespeichert werden;
+        das Bestehen des Rechts auf Berichtigung, Löschung oder Einschränkung der Verarbeitung und dem Widerspruchsrecht gegen die Verarbeitung;
+        dass Sie sich bei einer Aufsichtsbehörde beschweren können (Links zu diesen Behörden finden Sie weiter unten);
+        die Herkunft der Daten, wenn wir sie nicht bei Ihnen erhoben haben;
+        ob Profiling durchgeführt wird, ob also Daten automatisch ausgewertet werden, um zu einem persönlichen Profil von Ihnen zu gelangen.
+    Sie haben laut Artikel 16 DSGVO ein Recht auf Berichtigung der Daten, was bedeutet, dass wir Daten richtig stellen müssen, falls Sie Fehler finden.
+    Sie haben laut Artikel 17 DSGVO das Recht auf Löschung („Recht auf Vergessenwerden“), was konkret bedeutet, dass Sie die Löschung Ihrer Daten verlangen dürfen.
+    Sie haben laut Artikel 18 DSGVO das Recht auf Einschränkung der Verarbeitung, was bedeutet, dass wir die Daten nur mehr speichern dürfen aber nicht weiter verwenden.
+    Sie haben laut Artikel 19 DSGVO das Recht auf Datenübertragbarkeit, was bedeutet, dass wir Ihnen auf Anfrage Ihre Daten in einem gängigen Format zur Verfügung stellen.
+    Sie haben laut Artikel 21 DSGVO ein Widerspruchsrecht, welches nach Durchsetzung eine Änderung der Verarbeitung mit sich bringt.
+        Wenn die Verarbeitung Ihrer Daten auf Artikel 6 Abs. 1 lit. e (öffentliches Interesse, Ausübung öffentlicher Gewalt) oder Artikel 6 Abs. 1 lit. f (berechtigtes Interesse) basiert, können Sie gegen die Verarbeitung Widerspruch einlegen. Wir prüfen danach so rasch wie möglich, ob wir diesem Widerspruch rechtlich nachkommen können.
+        Werden Daten verwendet, um Direktwerbung zu betreiben, können Sie jederzeit gegen diese Art der Datenverarbeitung widersprechen. Wir dürfen Ihre Daten danach nicht mehr für Direktmarketing verwenden.
+        Werden Daten verwendet, um Profiling zu betreiben, können Sie jederzeit gegen diese Art der Datenverarbeitung widersprechen. Wir dürfen Ihre Daten danach nicht mehr für Profiling verwenden.
+    Sie haben laut Artikel 22 DSGVO unter Umständen das Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung (zum Beispiel Profiling) beruhenden Entscheidung unterworfen zu werden.
+    Sie haben laut Artikel 77 DSGVO das Recht auf Beschwerde. Das heißt, Sie können sich jederzeit bei der Datenschutzbehörde beschweren, wenn Sie der Meinung sind, dass die Datenverarbeitung von personenbezogenen Daten gegen die DSGVO verstößt.
+
+Kurz gesagt: Sie haben Rechte – zögern Sie nicht, die oben gelistete verantwortliche Stelle bei uns zu kontaktieren!
+
+Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche in sonst einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren. Diese ist für Österreich die Datenschutzbehörde, deren Website Sie unter https://www.dsb.gv.at/ finden. In Deutschland gibt es für jedes Bundesland einen Datenschutzbeauftragten. Für nähere Informationen können Sie sich an die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) wenden. Für unser Unternehmen ist die folgende lokale Datenschutzbehörde zuständig:
+Cookies
+Cookies Zusammenfassung
+👥 Betroffene: Besucher der Website
+🤝 Zweck: abhängig vom jeweiligen Cookie. Mehr Details dazu finden Sie weiter unten bzw. beim Hersteller der Software, der das Cookie setzt.
+📓 Verarbeitete Daten: Abhängig vom jeweils eingesetzten Cookie. Mehr Details dazu finden Sie weiter unten bzw. beim Hersteller der Software, der das Cookie setzt.
+📅 Speicherdauer: abhängig vom jeweiligen Cookie, kann von Stunden bis hin zu Jahren variieren
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit.f DSGVO (Berechtigte Interessen)
+Was sind Cookies?
+
+Unsere Website verwendet HTTP-Cookies, um nutzerspezifische Daten zu speichern.
+Im Folgenden erklären wir, was Cookies sind und warum Sie genutzt werden, damit Sie die folgende Datenschutzerklärung besser verstehen.
+
+Immer wenn Sie durch das Internet surfen, verwenden Sie einen Browser. Bekannte Browser sind beispielsweise Chrome, Safari, Firefox, Internet Explorer und Microsoft Edge. Die meisten Websites speichern kleine Text-Dateien in Ihrem Browser. Diese Dateien nennt man Cookies.
+
+Eines ist nicht von der Hand zu weisen: Cookies sind echt nützliche Helferlein. Fast alle Websites verwenden Cookies. Genauer gesprochen sind es HTTP-Cookies, da es auch noch andere Cookies für andere Anwendungsbereiche gibt. HTTP-Cookies sind kleine Dateien, die von unserer Website auf Ihrem Computer gespeichert werden. Diese Cookie-Dateien werden automatisch im Cookie-Ordner, quasi dem “Hirn” Ihres Browsers, untergebracht. Ein Cookie besteht aus einem Namen und einem Wert. Bei der Definition eines Cookies müssen zusätzlich ein oder mehrere Attribute angegeben werden.
+
+Cookies speichern gewisse Nutzerdaten von Ihnen, wie beispielsweise Sprache oder persönliche Seiteneinstellungen. Wenn Sie unsere Seite wieder aufrufen, übermittelt Ihr Browser die „userbezogenen“ Informationen an unsere Seite zurück. Dank der Cookies weiß unsere Website, wer Sie sind und bietet Ihnen die Einstellung, die Sie gewohnt sind. In einigen Browsern hat jedes Cookie eine eigene Datei, in anderen wie beispielsweise Firefox sind alle Cookies in einer einzigen Datei gespeichert.
+
+Die folgende Grafik zeigt eine mögliche Interaktion zwischen einem Webbrowser wie z. B. Chrome und dem Webserver. Dabei fordert der Webbrowser eine Website an und erhält vom Server ein Cookie zurück, welches der Browser erneut verwendet, sobald eine andere Seite angefordert wird.
+
+HTTP Cookie Interaktion zwischen Browser und Webserver
+
+Es gibt sowohl Erstanbieter Cookies als auch Drittanbieter-Cookies. Erstanbieter-Cookies werden direkt von unserer Seite erstellt, Drittanbieter-Cookies werden von Partner-Websites (z.B. Google Analytics) erstellt. Jedes Cookie ist individuell zu bewerten, da jedes Cookie andere Daten speichert. Auch die Ablaufzeit eines Cookies variiert von ein paar Minuten bis hin zu ein paar Jahren. Cookies sind keine Software-Programme und enthalten keine Viren, Trojaner oder andere „Schädlinge“. Cookies können auch nicht auf Informationen Ihres PCs zugreifen.
+
+So können zum Beispiel Cookie-Daten aussehen:
+
+Name: _ga
+Wert: GA1.2.1326744211.152122007175-9
+Verwendungszweck: Unterscheidung der Websitebesucher
+Ablaufdatum: nach 2 Jahren
+
+Diese Mindestgrößen sollte ein Browser unterstützen können:
+
+    Mindestens 4096 Bytes pro Cookie
+    Mindestens 50 Cookies pro Domain
+    Mindestens 3000 Cookies insgesamt
+
+Welche Arten von Cookies gibt es?
+
+Die Frage welche Cookies wir im Speziellen verwenden, hängt von den verwendeten Diensten ab und wird in den folgenden Abschnitten der Datenschutzerklärung geklärt. An dieser Stelle möchten wir kurz auf die verschiedenen Arten von HTTP-Cookies eingehen.
+
+Man kann 4 Arten von Cookies unterscheiden:
+
+Unerlässliche Cookies
+Diese Cookies sind nötig, um grundlegende Funktionen der Website sicherzustellen. Zum Beispiel braucht es diese Cookies, wenn ein User ein Produkt in den Warenkorb legt, dann auf anderen Seiten weitersurft und später erst zur Kasse geht. Durch diese Cookies wird der Warenkorb nicht gelöscht, selbst wenn der User sein Browserfenster schließt.
+
+Zweckmäßige Cookies
+Diese Cookies sammeln Infos über das Userverhalten und ob der User etwaige Fehlermeldungen bekommt. Zudem werden mithilfe dieser Cookies auch die Ladezeit und das Verhalten der Website bei verschiedenen Browsern gemessen.
+
+Zielorientierte Cookies
+Diese Cookies sorgen für eine bessere Nutzerfreundlichkeit. Beispielsweise werden eingegebene Standorte, Schriftgrößen oder Formulardaten gespeichert.
+
+Werbe-Cookies
+Diese Cookies werden auch Targeting-Cookies genannt. Sie dienen dazu dem User individuell angepasste Werbung zu liefern. Das kann sehr praktisch, aber auch sehr nervig sein.
+
+Üblicherweise werden Sie beim erstmaligen Besuch einer Website gefragt, welche dieser Cookiearten Sie zulassen möchten. Und natürlich wird diese Entscheidung auch in einem Cookie gespeichert.
+
+Wenn Sie mehr über Cookies wissen möchten und technische Dokumentationen nicht scheuen, empfehlen wir https://datatracker.ietf.org/doc/html/rfc6265, dem Request for Comments der Internet Engineering Task Force (IETF) namens “HTTP State Management Mechanism”.
+Zweck der Verarbeitung über Cookies
+
+Der Zweck ist letztendlich abhängig vom jeweiligen Cookie. Mehr Details dazu finden Sie weiter unten bzw. beim Hersteller der Software, die das Cookie setzt.
+Welche Daten werden verarbeitet?
+
+Cookies sind kleine Gehilfen für eine viele verschiedene Aufgaben. Welche Daten in Cookies gespeichert werden, kann man leider nicht verallgemeinern, aber wir werden Sie im Rahmen der folgenden Datenschutzerklärung über die verarbeiteten bzw. gespeicherten Daten informieren.
+Speicherdauer von Cookies
+
+Die Speicherdauer hängt vom jeweiligen Cookie ab und wird weiter unter präzisiert. Manche Cookies werden nach weniger als einer Stunde gelöscht, andere können mehrere Jahre auf einem Computer gespeichert bleiben.
+
+Sie haben außerdem selbst Einfluss auf die Speicherdauer. Sie können über ihren Browser sämtliche Cookies jederzeit manuell löschen (siehe auch unten “Widerspruchsrecht”). Ferner werden Cookies, die auf einer Einwilligung beruhen, spätestens nach Widerruf Ihrer Einwilligung gelöscht, wobei die Rechtmäßigkeit der Speicherung bis dahin unberührt bleibt.
+Widerspruchsrecht – wie kann ich Cookies löschen?
+
+Wie und ob Sie Cookies verwenden wollen, entscheiden Sie selbst. Unabhängig von welchem Service oder welcher Website die Cookies stammen, haben Sie immer die Möglichkeit Cookies zu löschen, zu deaktivieren oder nur teilweise zuzulassen. Zum Beispiel können Sie Cookies von Drittanbietern blockieren, aber alle anderen Cookies zulassen.
+
+Wenn Sie feststellen möchten, welche Cookies in Ihrem Browser gespeichert wurden, wenn Sie Cookie-Einstellungen ändern oder löschen wollen, können Sie dies in Ihren Browser-Einstellungen finden:
+
+Chrome: Cookies in Chrome löschen, aktivieren und verwalten
+
+Safari: Verwalten von Cookies und Websitedaten mit Safari
+
+Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben
+
+Internet Explorer: Löschen und Verwalten von Cookies
+
+Microsoft Edge: Löschen und Verwalten von Cookies
+
+Falls Sie grundsätzlich keine Cookies haben wollen, können Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So können Sie bei jedem einzelnen Cookie entscheiden, ob Sie das Cookie erlauben oder nicht. Die Vorgangsweise ist je nach Browser verschieden. Am besten Sie suchen die Anleitung in Google mit dem Suchbegriff “Cookies löschen Chrome” oder “Cookies deaktivieren Chrome” im Falle eines Chrome Browsers.
+Rechtsgrundlage
+
+Seit 2009 gibt es die sogenannten „Cookie-Richtlinien“. Darin ist festgehalten, dass das Speichern von Cookies eine Einwilligung (Artikel 6 Abs. 1 lit. a DSGVO) von Ihnen verlangt. Innerhalb der EU-Länder gibt es allerdings noch sehr unterschiedliche Reaktionen auf diese Richtlinien. In Österreich erfolgte aber die Umsetzung dieser Richtlinie in § 96 Abs. 3 des Telekommunikationsgesetzes (TKG). In Deutschland wurden die Cookie-Richtlinien nicht als nationales Recht umgesetzt. Stattdessen erfolgte die Umsetzung dieser Richtlinie weitgehend in § 15 Abs.3 des Telemediengesetzes (TMG).
+
+Für unbedingt notwendige Cookies, auch soweit keine Einwilligung vorliegt, bestehen berechtigte Interessen (Artikel 6 Abs. 1 lit. f DSGVO), die in den meisten Fällen wirtschaftlicher Natur sind. Wir möchten den Besuchern der Website eine angenehme Benutzererfahrung bescheren und dafür sind bestimmte Cookies oft unbedingt notwendig.
+
+Soweit nicht unbedingt erforderliche Cookies zum Einsatz kommen, geschieht dies nur im Falle Ihrer Einwilligung. Rechtsgrundlage ist insoweit Art. 6 Abs. 1 lit. a DSGVO.
+
+In den folgenden Abschnitten werden Sie genauer über den Einsatz von Cookies informiert, sofern eingesetzte Software Cookies verwendet.
+Webhosting Einleitung
+Webhosting Zusammenfassung
+👥 Betroffene: Besucher der Website
+🤝 Zweck: professionelles Hosting der Website und Absicherung des Betriebs
+📓 Verarbeitete Daten: IP-Adresse, Zeitpunkt des Websitebesuchs, verwendeter Browser und weitere Daten. Mehr Details dazu finden Sie weiter unten bzw. beim jeweils eingesetzten Webhosting Provider.
+📅 Speicherdauer: abhängig vom jeweiligen Provider, aber in der Regel 2 Wochen
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit.f DSGVO (Berechtigte Interessen)
+Was ist Webhosting?
+
+Wenn Sie heutzutage Websites besuchen, werden gewisse Informationen – auch personenbezogene Daten – automatisch erstellt und gespeichert, so auch auf dieser Website. Diese Daten sollten möglichst sparsam und nur mit Begründung verarbeitet werden. Mit Website meinen wir übrigens die Gesamtheit aller Webseiten auf einer Domain, d.h. alles von der Startseite (Homepage) bis hin zur aller letzten Unterseite (wie dieser hier). Mit Domain meinen wir zum Beispiel beispiel.de oder musterbeispiel.com.
+
+Wenn Sie eine Website auf einem Computer, Tablet oder Smartphone ansehen möchten, verwenden Sie dafür ein Programm, das sich Webbrowser nennt. Sie kennen vermutlich einige Webbrowser beim Namen: Google Chrome, Microsoft Edge, Mozilla Firefox und Apple Safari. Wir sagen kurz Browser oder Webbrowser dazu.
+
+Um die Website anzuzeigen, muss sich der Browser zu einem anderen Computer verbinden, wo der Code der Website gespeichert ist: dem Webserver. Der Betrieb eines Webservers ist eine komplizierte und aufwendige Aufgabe, weswegen dies in der Regel von professionellen Anbietern, den Providern, übernommen wird. Diese bieten Webhosting an und sorgen damit für eine verlässliche und fehlerfreie Speicherung der Daten von Websites. Eine ganze Menge Fachbegriffe, aber bitte bleiben Sie dran, es wird noch besser!
+
+Bei der Verbindungsaufnahme des Browsers auf Ihrem Computer (Desktop, Laptop, Tablet oder Smartphone) und während der Datenübertragung zu und vom Webserver kann es zu einer Verarbeitung personenbezogener Daten kommen. Einerseits speichert Ihr Computer Daten, andererseits muss auch der Webserver Daten eine Zeit lang speichern, um einen ordentlichen Betrieb zu gewährleisten.
+
+Ein Bild sagt mehr als tausend Worte, daher zeigt folgende Grafik zur Veranschaulichung das Zusammenspiel zwischen Browser, dem Internet und dem Hosting-Provider.
+
+Browser und Webserver
+Warum verarbeiten wir personenbezogene Daten?
+
+Die Zwecke der Datenverarbeitung sind:
+
+    Professionelles Hosting der Website und Absicherung des Betriebs
+    zur Aufrechterhaltung der Betriebs- und IT-Sicherheit
+    Anonyme Auswertung des Zugriffsverhaltens zur Verbesserung unseres Angebots und ggf. zur Strafverfolgung bzw. Verfolgung von Ansprüchen
+
+Welche Daten werden verarbeitet?
+
+Auch während Sie unsere Website jetzt gerade besuchen, speichert unser Webserver, das ist der Computer auf dem diese Webseite gespeichert ist, in der Regel automatisch Daten wie
+
+    die komplette Internetadresse (URL) der aufgerufenen Webseite
+    Browser und Browserversion (z. B. Chrome 87)
+    das verwendete Betriebssystem (z. B. Windows 10)
+    die Adresse (URL) der zuvor besuchten Seite (Referrer URL) (z. B. https://www.beispielquellsite.de/vondabinichgekommen.html/)
+    den Hostnamen und die IP-Adresse des Geräts von welchem aus zugegriffen wird (z. B. COMPUTERNAME und 194.23.43.121)
+    Datum und Uhrzeit
+    in Dateien, den sogenannten Webserver-Logfiles
+
+Wie lange werden Daten gespeichert?
+
+In der Regel werden die oben genannten Daten zwei Wochen gespeichert und danach automatisch gelöscht. Wir geben diese Daten nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten von Behörden eingesehen werden.
+
+Kurz gesagt: Ihr Besuch wird durch unseren Provider (Firma, die unsere Website auf speziellen Computern (Servern) laufen lässt), protokolliert, aber wir geben Ihre Daten nicht ohne Zustimmung weiter!
+Rechtsgrundlage
+
+Die Rechtmäßigkeit der Verarbeitung personenbezogener Daten im Rahmen des Webhosting ergibt sich aus Art. 6 Abs. 1 lit. f DSGVO (Wahrung der berechtigten Interessen), denn die Nutzung von professionellem Hosting bei einem Provider ist notwendig, um das Unternehmen im Internet sicher und nutzerfreundlich präsentieren und Angriffe und Forderungen hieraus gegebenenfalls verfolgen zu können.
+
+Zwischen uns und dem Hosting-Provider besteht in der Regel ein Vertrag über die Auftragsverarbeitung gemäß Art. 28 f. DSGVO, der die Einhaltung von Datenschutz gewährleistet und Datensicherheit garantiert.
+Social Media Einleitung
+Social Media Datenschutzerklärung Zusammenfassung
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Darstellung und Optimierung unserer Serviceleistung, Kontakt zu Besuchern, Interessenten u.a., Werbung
+📓 Verarbeitete Daten: Daten wie etwa Telefonnummern, E-Mail-Adressen, Kontaktdaten, Daten zum Nutzerverhalten, Informationen zu Ihrem Gerät und Ihre IP-Adresse.
+Mehr Details dazu finden Sie beim jeweils eingesetzten Social-Media-Tool.
+📅 Speicherdauer: abhängig von den verwendeten Social-Media-Plattformen
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+Was ist Social Media?
+
+Zusätzlich zu unserer Website sind wir auch in diversen Social-Media-Plattformen aktiv. Dabei können Daten von Usern verarbeitet werden, damit wir gezielt User, die sich für uns interessieren, über die sozialen Netzwerke ansprechen können. Darüber hinaus können auch Elemente einer Social-Media-Plattform direkt in unsere Website eingebettet sein. Das ist etwa der Fall, wenn Sie einen sogenannten Social-Button auf unserer Website anklicken und direkt zu unserem Social-Media-Auftritt weitergeleitet werden. Als sogenannte Sozialen Medien oder Social Media werden Websites und Apps bezeichnet, über die angemeldete Mitglieder Inhalte produzieren, Inhalte offen oder in bestimmten Gruppen austauschen und sich mit anderen Mitgliedern vernetzen können.
+Warum nutzen wir Social Media?
+
+Seit Jahren sind Social-Media-Plattformen der Ort, wo Menschen online kommunizieren und in Kontakt treten. Mit unseren Social-Media-Auftritten können wir unsere Produkte und Dienstleistungen Interessenten näherbringen. Die auf unserer Website eingebundenen Social-Media-Elemente helfen Ihnen, schnell und ohne Komplikationen zu unseren Social-Media-Inhalten wechseln können.
+
+Die Daten, die durch Ihre Nutzung eines Social-Media-Kanals gespeichert und verarbeitet werden, haben in erster Linie den Zweck, Webanalysen durchführen zu können. Ziel dieser Analysen ist es, genauere und personenbezogene Marketing- und Werbestrategien entwickeln zu können. Abhängig von Ihrem Verhalten auf einer Social-Media-Plattform, können mit Hilfe der ausgewerteten Daten, passende Rückschlüsse auf Ihre Interessen getroffen werden und sogenannte Userprofile erstellt werden. So ist es den Plattformen auch möglich, Ihnen maßgeschneiderte Werbeanzeigen zu präsentieren. Meistens werden für diesen Zweck Cookies in Ihrem Browser gesetzt, die Daten zu Ihrem Nutzungsverhalten speichern.
+
+Wir gehen in der Regel davon aus, dass wir datenschutzrechtlich verantwortlich bleiben, auch wenn wir Dienste einer Social-Media-Plattform nutzen. Der Europäische Gerichtshof hat jedoch entschieden, dass in bestimmten Fällen der Betreiber der Social-Media-Plattform zusammen mit uns gemeinsam verantwortlich im Sinne des Art. 26 DSGVO sein kann. Soweit dies der Fall ist, weisen wir gesondert darauf hin und arbeiten auf Grundlage einer diesbezüglichen Vereinbarung. Das Wesentliche der Vereinbarung ist dann weiter unten bei der betroffenen Plattform wiedergegeben.
+
+Bitte beachten Sie, dass bei der Nutzung der Social-Media-Plattformen oder unserer eingebauten Elemente auch Daten von Ihnen außerhalb der Europäischen Union verarbeitet werden können, da viele Social-Media-Kanäle, beispielsweise Facebook oder Twitter, amerikanische Unternehmen sind. Dadurch können Sie möglicherweise Ihre Rechte in Bezug auf Ihre personenbezogenen Daten nicht mehr so leicht einfordern bzw. durchsetzen.
+Welche Daten werden verarbeitet?
+
+Welche Daten genau gespeichert und verarbeitet werden, hängt vom jeweiligen Anbieter der Social-Media-Plattform ab. Aber für gewöhnlich handelt es sich um Daten wie etwa Telefonnummern, E-Mailadressen, Daten, die Sie in ein Kontaktformular eingeben, Nutzerdaten wie zum Beispiel welche Buttons Sie klicken, wen Sie liken oder wem folgen, wann Sie welche Seiten besucht haben, Informationen zu Ihrem Gerät und Ihre IP-Adresse. Die meisten dieser Daten werden in Cookies gespeichert. Speziell wenn Sie selbst ein Profil bei dem besuchten Social-Media-Kanal haben und angemeldet sind, können Daten mit Ihrem Profil verknüpft werden.
+
+Alle Daten, die über eine Social-Media-Plattform erhoben werden, werden auch auf den Servern der Anbieter gespeichert. Somit haben auch nur die Anbieter Zugang zu den Daten und können Ihnen die passenden Auskünfte geben bzw. Änderungen vornehmen.
+
+Wenn Sie genau wissen wollen, welche Daten bei den Social-Media-Anbietern gespeichert und verarbeitet werden und wie sie der Datenverarbeitung widersprechen können, sollten Sie die jeweilige Datenschutzerklärung des Unternehmens sorgfältig durchlesen. Auch wenn Sie zur Datenspeicherung und Datenverarbeitung Fragen haben oder entsprechende Rechte geltend machen wollen, empfehlen wir Ihnen, sich direkt an den Anbieter wenden.
+Dauer der Datenverarbeitung
+
+Über die Dauer der Datenverarbeitung informieren wir Sie weiter unten, sofern wir weitere Informationen dazu haben. Beispielsweise speichert die Social-Media-Plattform Facebook Daten, bis sie für den eigenen Zweck nicht mehr benötigt werden. Kundendaten, die mit den eigenen Userdaten abgeglichen werden, werden aber schon innerhalb von zwei Tagen gelöscht. Generell verarbeiten wir personenbezogene Daten nur so lange wie es für die Bereitstellung unserer Dienstleistungen und Produkte unbedingt notwendig ist. Wenn es, wie zum Beispiel im Fall von Buchhaltung, gesetzlich vorgeschrieben ist, kann diese Speicherdauer auch überschritten werden.
+Widerspruchsrecht
+
+Sie haben auch jederzeit das Recht und die Möglichkeit Ihre Einwilligung zur Verwendung von Cookies bzw. Drittanbietern wie eingebettete Social-Media-Elemente zu widerrufen. Das funktioniert entweder über unser Cookie-Management-Tool oder über andere Opt-Out-Funktionen. Zum Bespiel können Sie auch die Datenerfassung durch Cookies verhindern, indem Sie in Ihrem Browser die Cookies verwalten, deaktivieren oder löschen.
+
+Da bei Social-Media-Tools Cookies zum Einsatz kommen können, empfehlen wir Ihnen auch unsere allgemeine Datenschutzerklärung über Cookies. Um zu erfahren, welche Daten von Ihnen genau gespeichert und verarbeitet werden, sollten Sie die Datenschutzerklärungen der jeweiligen Tools durchlesen.
+Rechtsgrundlage
+
+Wenn Sie eingewilligt haben, dass Daten von Ihnen durch eingebundene Social-Media-Elemente verarbeitet und gespeichert werden können, gilt diese Einwilligung als Rechtsgrundlage der Datenverarbeitung (Art. 6 Abs. 1 lit. a DSGVO). Grundsätzlich werden Ihre Daten bei Vorliegen einer Einwilligung auch auf Grundlage unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) an einer schnellen und guten Kommunikation mit Ihnen oder anderen Kunden und Geschäftspartnern gespeichert und verarbeitet. Wir setzen die Tools gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben. Die meisten Social-Media-Plattformen setzen auch Cookies in Ihrem Browser, um Daten zu speichern. Darum empfehlen wir Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder die Cookie-Richtlinien des jeweiligen Dienstanbieters anzusehen.
+
+Informationen zu speziellen Social-Media-Plattformen erfahren Sie – sofern vorhanden – in den folgenden Abschnitten.
+AddThis Datenschutzerklärung
+AddThis Datenschutzerklärung Zusammenfassung
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Optimierung unserer Serviceleistung
+📓 Verarbeitete Daten: Daten wie etwa Daten zum Nutzerverhalten, Informationen zu Ihrem Gerät und Ihre IP-Adresse.
+Mehr Details dazu finden Sie weiter unten in der Datenschutzerklärung.
+📅 Speicherdauer: die gesammelten Daten für 13 Monate ab der Datenerhebung gespeichert
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+Was ist AddThis?
+
+Wir verwenden auf unserer Website Plug-ins von AddThis der Firma Oracle America, Inc. (500 Oracle Parkway, Redwood Shores, CA 94065, USA). Mit diesen Plug-ins können Sie Inhalte unserer Website schnell und einfach mit anderen Menschen teilen. Wenn Sie eine Webseite mit einer AddThis-Funktion besuchen, können Daten von Ihnen an das Unternehmen AddThis übertragen, gespeichert und verarbeitet werden. Mit dieser Datenschutzerklärungen erfahren Sie warum wir AddThis verwenden, welche Daten verarbeitet werden und wie Sie diese Datenübertragung unterbinden können.
+
+AddThis entwickelt unter anderem Software-Tools, die auf Websites eingebunden werden, um Usern das Verbreiten von Inhalten auf verschiedenen Social-Media-Kanälen oder per E-Mail zu ermöglichen. Darüber hinaus bietet AddThis auch Funktionen, die der Websiteanalyse dienen. Die gesammelten Daten werden auch genutzt, um Internetusern interessensbezogene Werbung anzubieten. Das Service wird von mehr als 15 Millionen Websitebetreibern weltweit in Anspruch genommen.
+Warum verwenden wir AddThis auf unserer Website?
+
+Durch die Nutzung der AddThis-Buttons können Sie interessante Inhalte unserer Webseite in verschiedenen Social-Media-Kanälen wie Facebook, Twitter, Instagram oder Pinterest teilen. Wenn Sie unsere Inhalte gut finden, freut es uns natürlich, wenn Sie diese auch mit Ihrer Social-Community teilen. Und am einfachsten geht das über die AddThis-Buttons.
+Welche Daten werden von AddThis gespeichert?
+
+Wenn Sie Inhalte mit AddThis teilen und Sie mit dem jeweiligen Social-Media-Konto angemeldet sind, können Daten wie beispielsweise der Besuch auf unserer Website und das Teilen von Inhalten dem Userkonto des entsprechenden Social-Media-Kanals zugeordnet werden. AddThis verwendet Cookies, Pixel, HTTP-Header und Browser Identifier, um Daten zu Ihrem Besucherverhalten zu sammeln. Zudem werden manche dieser Daten nach einer Pseudonymisierung mit Dritten geteilt.
+Hier eine beispielhafte Auflistung der möglicherweise verarbeiteten Daten:
+
+    Eindeutige ID eines im Webbrowser platzierten Cookies
+    Adresse der besuchten Webseite
+    Zeitpunkt des Webseitenbesuches
+    Suchanfragen über die ein Besucher zur Seite mit AddThis gelangt ist
+    Verweildauer auf einer Webseite
+    Die IP-Adresse des Computers oder mobilen Gerätes
+    Mobile Werbe-IDs (Apple IDFA oder Google AAID)
+    In HTTP-Headern oder anderen verwendeten Übertragungsprotokollen enthaltene Informationen
+    Welches Programm auf dem Computer (Browser) oder welches Betriebssystem verwendet wurde (iOS)
+
+AddThis verwendet Cookies, die wir im Folgenden beispielhaft und auszugsweise auflisten. Mehr zu den AddThis-Cookies finden Sie unter https://www.oracle.com/legal/privacy/addthis-privacy-policy.html.
+
+Name: bt2
+Wert: 8961a7f179d87qq69V69122007175-3
+Verwendungszweck: Dieses Cookie wird verwendet, um Teile der besuchten Website aufzuzeichnen, um andere Teile der Website zu empfehlen.
+Ablaufdatum: nach 255 Tagen
+
+Name: bku
+Wert: ra/99nTmYN+fZWX7122007175-4
+Verwendungszweck: Dieses Cookie registriert anonymisierte Benutzerdaten wie Ihre IP-Adresse, geografischen Standort, besuchte Websites und auf welche Anzeigen Sie geklickt haben.
+Ablaufdatum: nach 179 Tagen
+
+Anmerkung: Bitte bedenken Sie, dass es sich hier um eine beispielhafte Liste handelt und wir keinen Anspruch auf Vollständigkeit erheben können.
+
+AddThis teilt gesammelte Informationen auch mit anderen Unternehmen. Nähere Details dazu finden Sie unter https://www.oracle.com/legal/privacy/addthis-privacy-policy.html. AddThis verwendet die erhaltenen Daten auch, um Zielgruppen und Interessensprofile zu erstellen und um Usern im selben Werbenetzwerk interessensbezogene Werbung anzubieten.
+Wie lange und wo werden die Daten gespeichert?
+
+AddThis speichert die gesammelten Daten für 13 Monate ab der Datenerhebung. 1% der Daten werden als „Musterdatensatz“ für maximal 24 Monate aufgehoben, damit die Geschäftsverbindung bewahrt bleibt. In diesem „Musterdatensatz“ wird allerdings die direkte und indirekte Identifikation (wie Ihre IP-Adresse und Cookie-ID) gehasht. Das bedeutet, dass die persönlichen Daten ohne Zusatzinformationen nicht mehr mit Ihnen in Verbindung gebracht werden können. Da das Unternehmen AddThis ihren Hauptsitz in den USA hat, werden die gesammelte Daten auch auf amerikanischen Servern gespeichert.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+
+Sie haben jederzeit das Recht auf Ihre personenbezogenen Daten zuzugreifen und sie auch zu löschen. Wenn Sie keine Werbung mehr sehen möchten, die auf von AddThis gesammelten Daten basiert, können Sie den Opt-out-Button auf https://datacloudoptout.oracle.com/?tid=122007175 verwenden. Dabei wird ein Opt-out-Cookie gesetzt, das Sie nicht löschen dürfen, um diese Einstellung weiterhin zu behalten.
+
+Sie können Ihre Präferenzen für nutzungsbasierte Onlinewerbung auch über https://www.youronlinechoices.com/at/ im Präferenzmanagement festlegen.
+
+Eine Möglichkeit die Datenverarbeitung zu unterbinden bzw. nach Ihren Wünschen zu verwalten, bietet Ihr Browser. Je nach Browser funktioniert die Datenverarbeitung etwas anders. Unter dem Abschnitt „Cookies“ finden Sie die entsprechenden Links zu den jeweiligen Anleitungen der bekanntesten Browser.
+Rechtsgrundlage
+
+Wenn Sie eingewilligt haben, dass Daten von Ihnen durch eingebundene Social-Media-Elemente verarbeitet und gespeichert werden können, gilt diese Einwilligung als Rechtsgrundlage der Datenverarbeitung (Art. 6 Abs. 1 lit. a DSGVO). Grundsätzlich werden Ihre Daten auch auf Grundlage unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) an einer schnellen und guten Kommunikation mit Ihnen oder anderen Kunden und Geschäftspartnern gespeichert und verarbeitet. Wir setzen die eingebundene Social-Media-Elemente gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben. Die meisten Social-Media-Plattformen setzen auch Cookies in Ihrem Browser, um Daten zu speichern. Darum empfehlen wir Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder die Cookie-Richtlinien des jeweiligen Dienstanbieters anzusehen.
+
+AddThis verarbeitet Daten u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
+
+Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet AddThis von der EU-Kommission genehmigte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Diese Klauseln verpflichten AddThis, das EU-Datenschutzniveau bei der Verarbeitung relevanter Daten auch außerhalb der EU einzuhalten. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss sowie die Klauseln u.a. hier: https://germany.representation.ec.europa.eu/index_de.
+
+Wenn Sie mehr über die Verarbeitung Ihrer Daten durch AddThis wissen möchten, finden Sie weitere Informationen unter https://www.oracle.com/legal/privacy/addthis-privacy-policy.html.
+Facebook Datenschutzerklärung
+Facebook Datenschutzerklärung Zusammenfassung
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Optimierung unserer Serviceleistung
+📓 Verarbeitete Daten: Daten wie etwa Kundendaten, Daten zum Nutzerverhalten, Informationen zu Ihrem Gerät und Ihre IP-Adresse.
+Mehr Details dazu finden Sie weiter unten in der Datenschutzerklärung.
+📅 Speicherdauer: bis die Daten für Facebooks Zwecke nicht mehr nützlich sind
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+Was sind Facebook-Tools?
+
+Wir verwenden auf unserer Website ausgewählte Tools von Facebook. Facebook ist ein Social Media Network des Unternehmens Meta Platforms Inc. bzw. für den europäischen Raum des Unternehmens Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland. Mithilfe dieser Tools können wir Ihnen und Menschen, die sich für unsere Produkte und Dienstleistungen interessieren, das bestmögliche Angebot bieten.
+
+Wenn über unsere eingebetteten Facebook-Elemente oder über unsere Facebook-Seite (Fanpage) Daten von Ihnen erhoben und weitergeleitet werden, sind sowohl wir als auch Facebook Irland Ltd. dafür verantwortlich. Für die weitere Verarbeitung dieser Daten trägt Facebook allein die Verantwortung. Unsere gemeinsamen Verpflichtungen wurden auch in einer öffentlich zugänglichen Vereinbarung unter https://www.facebook.com/legal/controller_addendum verankert. Darin ist etwa festgehalten, dass wir Sie klar über den Einsatz der Facebook-Tools auf unserer Seite informieren müssen. Weiters sind wir auch dafür verantwortlich, dass die Tools datenschutzrechtlich sicher in unsere Website eingebunden sind. Facebook ist hingegen beispielsweise für die Datensicherheit der Facebook-Produkte verantwortlich. Bei etwaigen Fragen zur Datenerhebung und Datenverarbeitung durch Facebook können Sie sich direkt an das Unternehmen wenden. Wenn Sie die Frage an uns richten, sind wir dazu verpflichtet diese an Facebook weiterleiten.
+
+Im Folgenden geben wir einen Überblick über die verschiedenen Facebook Tools, welche Daten an Facebook gesendet werden und wie Sie diese Daten löschen können.
+
+Neben vielen anderen Produkten bietet Facebook auch die sogenannten “Facebook Business Tools” an. Das ist die offizielle Bezeichnung von Facebook. Da der Begriff aber kaum bekannt ist, haben wir uns dafür entschieden, sie lediglich Facebook-Tools zu nennen. Darunter finden sich unter anderem:
+
+    Facebook-Pixel
+    soziale Plug-ins (wie z.B der „Gefällt mir“- oder „Teilen“-Button)
+    Facebook Login
+    Account Kit
+    APIs (Programmierschnittstelle)
+    SDKs (Sammlung von Programmierwerkzeugen)
+    Plattform-Integrationen
+    Plugins
+    Codes
+    Spezifikationen
+    Dokumentationen
+    Technologien und Dienstleistungen
+
+Durch diese Tools erweitert Facebook Dienstleistungen und hat die Möglichkeit, Informationen über User-Aktivitäten außerhalb von Facebook zu erhalten.
+Warum verwenden wir Facebook-Tools auf unserer Website?
+
+Wir wollen unsere Dienstleistungen und Produkte nur Menschen zeigen, die sich auch wirklich dafür interessieren. Mithilfe von Werbeanzeigen (Facebook-Ads) können wir genau diese Menschen erreichen. Damit den Usern passende Werbung gezeigt werden kann, benötigt Facebook allerdings Informationen über die Wünsche und Bedürfnisse der Menschen. So werden dem Unternehmen Informationen über das Userverhalten (und Kontaktdaten) auf unserer Webseite zur Verfügung gestellt. Dadurch sammelt Facebook bessere User-Daten und kann interessierten Menschen die passende Werbung über unsere Produkte bzw. Dienstleistungen anzeigen. Die Tools ermöglichen somit maßgeschneiderte Werbekampagnen auf Facebook.
+
+Daten über Ihr Verhalten auf unserer Webseite nennt Facebook „Event-Daten“. Diese werden auch für Messungs- und Analysedienste verwendet. Facebook kann so in unserem Auftrag „Kampagnenberichte“ über die Wirkung unserer Werbekampagnen erstellen. Weiters bekommen wir durch Analysen einen besseren Einblick, wie Sie unsere Dienstleistungen, Webseite oder Produkte verwenden. Dadurch optimieren wir mit einigen dieser Tools Ihre Nutzererfahrung auf unserer Webseite. Beispielsweise können Sie mit den sozialen Plug-ins Inhalte auf unserer Seite direkt auf Facebook teilen.
+Welche Daten werden von Facebook-Tools gespeichert?
+
+Durch die Nutzung einzelner Facebook-Tools können personenbezogene Daten (Kundendaten) an Facebook gesendet werden. Abhängig von den benutzten Tools können Kundendaten wie Name, Adresse, Telefonnummer und IP-Adresse versandt werden.
+
+Facebook verwendet diese Informationen, um die Daten mit den Daten, die es selbst von Ihnen hat (sofern Sie Facebook-Mitglied sind) abzugleichen. Bevor Kundendaten an Facebook übermittelt werden, erfolgt ein sogenanntes „Hashing“. Das bedeutet, dass ein beliebig großer Datensatz in eine Zeichenkette transformiert wird. Dies dient auch der Verschlüsselung von Daten.
+
+Neben den Kontaktdaten werden auch „Event-Daten“ übermittelt. Unter „Event-Daten“ sind jene Informationen gemeint, die wir über Sie auf unserer Webseite erhalten. Zum Beispiel, welche Unterseiten Sie besuchen oder welche Produkte Sie bei uns kaufen. Facebook teilt die erhaltenen Informationen nicht mit Drittanbietern (wie beispielsweise Werbetreibende), außer das Unternehmen hat eine explizite Genehmigung oder ist rechtlich dazu verpflichtet. „Event-Daten“ können auch mit Kontaktdaten verbunden werden. Dadurch kann Facebook bessere personalisierte Werbung anbieten. Nach dem bereits erwähnten Abgleichungsprozess löscht Facebook die Kontaktdaten wieder.
+
+Um Werbeanzeigen optimiert ausliefern zu können, verwendet Facebook die Event-Daten nur, wenn diese mit anderen Daten (die auf andere Weise von Facebook erfasst wurden) zusammengefasst wurden. Diese Event-Daten nützt Facebook auch für Sicherheits-, Schutz-, Entwicklungs- und Forschungszwecke. Viele dieser Daten werden über Cookies zu Facebook übertragen. Cookies sind kleine Text-Dateien, die zum Speichern von Daten bzw. Informationen in Browsern verwendet werden. Je nach verwendeten Tools und abhängig davon, ob Sie Facebook-Mitglied sind, werden unterschiedlich viele Cookies in Ihrem Browser angelegt. In den Beschreibungen der einzelnen Facebook Tools gehen wir näher auf einzelne Facebook-Cookies ein. Allgemeine Informationen über die Verwendung von Facebook-Cookies erfahren Sie auch auf https://www.facebook.com/policies/cookies.
+Wie lange und wo werden die Daten gespeichert?
+
+Grundsätzlich speichert Facebook Daten bis sie nicht mehr für die eigenen Dienste und Facebook-Produkte benötigt werden. Facebook hat auf der ganzen Welt Server verteilt, wo seine Daten gespeichert werden. Kundendaten werden allerdings, nachdem sie mit den eigenen Userdaten abgeglichen wurden, innerhalb von 48 Stunden gelöscht.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+
+Entsprechend der Datenschutz Grundverordnung haben Sie das Recht auf Auskunft, Berichtigung, Übertragbarkeit und Löschung Ihrer Daten.
+
+Eine komplette Löschung der Daten erfolgt nur, wenn Sie Ihr Facebook-Konto vollständig löschen. Und so funktioniert das Löschen Ihres Facebook-Kontos:
+
+1) Klicken Sie rechts bei Facebook auf Einstellungen.
+
+2) Anschließend klicken Sie in der linken Spalte auf „Deine Facebook-Informationen“.
+
+3) Nun klicken Sie “Deaktivierung und Löschung”.
+
+4) Wählen Sie jetzt „Konto löschen“ und klicken Sie dann auf „Weiter und Konto löschen“
+
+5) Geben Sie nun Ihr Passwort ein, klicken Sie auf „Weiter“ und dann auf „Konto löschen“
+
+Die Speicherung der Daten, die Facebook über unsere Seite erhält, erfolgt unter anderem über Cookies (z.B. bei sozialen Plugins). In Ihrem Browser können Sie einzelne oder alle Cookies deaktivieren, löschen oder verwalten. Je nach dem welchen Browser Sie verwenden, funktioniert dies auf unterschiedliche Art und Weise. Unter dem Abschnitt „Cookies“ finden Sie die entsprechenden Links zu den jeweiligen Anleitungen der bekanntesten Browser.
+
+Falls Sie grundsätzlich keine Cookies haben wollen, können Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So können Sie bei jedem einzelnen Cookie entscheiden, ob Sie es erlauben oder nicht.
+Rechtsgrundlage
+
+Wenn Sie eingewilligt haben, dass Daten von Ihnen durch eingebundene Facebook-Tools verarbeitet und gespeichert werden können, gilt diese Einwilligung als Rechtsgrundlage der Datenverarbeitung (Art. 6 Abs. 1 lit. a DSGVO). Grundsätzlich werden Ihre Daten auch auf Grundlage unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) an einer schnellen und guten Kommunikation mit Ihnen oder anderen Kunden und Geschäftspartnern gespeichert und verarbeitet. Wir setzen die Tools gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben. Die meisten Social-Media-Plattformen setzen auch Cookies in Ihrem Browser, um Daten zu speichern. Darum empfehlen wir Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder die Cookie-Richtlinien von Facebook anzusehen.
+
+Facebook verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
+
+Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Facebook sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch diese Klauseln verpflichtet sich Facebook, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de
+
+Die Facebook Datenverarbeitungsbedingung, welche den Standardvertragsklauseln entsprechen, finden Sie unter https://www.facebook.com/legal/terms/dataprocessing.
+
+Wir hoffen, wir haben Ihnen die wichtigsten Informationen über die Nutzung und Datenverarbeitung durch die Facebook-Tools nähergebracht. Wenn Sie mehr darüber erfahren wollen, wie Facebook Ihre Daten verwendet, empfehlen wir Ihnen die Datenrichtlinien auf https://www.facebook.com/about/privacy/update.
+Facebook Login Datenschutzerklärung
+
+Wir haben auf unserer Seite das praktische Facebook Login integriert. So können Sie sich bei uns ganz einfach mit Ihrem Facebook-Konto einloggen, ohne ein weiteres Benutzerkonto anlegen zu müssen. Wenn Sie sich entscheiden, Ihre Registrierung über das Facebook Login zu machen, werden Sie auf das Social Media Network Facebook weitergeleitet. Dort erfolgt die Anmeldung über Ihre Facebook Nutzerdaten. Durch dieses Login-Verfahren werden Daten über Sie bzw. Ihr Userverhalten gespeichert und an Facebook übermittelt.
+
+Um die Daten zu speichern, benutzt Facebook verschiedene Cookies. Im Folgenden zeigen wir Ihnen die wichtigsten Cookies, die in Ihrem Browser gesetzt werden bzw. schon bestehen, wenn Sie sich über das Facebook Login auf unserer Seite anmelden:
+
+Name: fr
+Wert: 0jieyh4c2GnlufEJ9..Bde09j…1.0.Bde09j
+Verwendungszweck: Dieses Cookie wird verwendet, damit das soziale Plugin auf unserer Webseite bestmöglich funktioniert.
+Ablaufdatum: nach 3 Monaten
+
+Name: datr
+Wert: 4Jh7XUA2122007175SEmPsSfzCOO4JFFl
+Verwendungszweck: Facebook setzt das “datr”-Cookie, wenn ein Webbrowser auf facebook.com zugreift, und das Cookie hilft, Anmeldeaktivitäten zu identifizieren und die Benutzer zu schützen.
+Ablaufdatum: nach 2 Jahren
+
+Name: _js_datr
+Wert: deleted
+Verwendungszweck: Dieses Session-Cookie setzt Facebook zu Trackingzwecken, auch wenn Sie kein Facebook-Konto haben oder ausgeloggt sind.
+Ablaufdatum: nach Sitzungsende
+
+Anmerkung: Die angeführten Cookies sind nur eine kleine Auswahl der Cookies, die Facebook zur Verfügung stehen. Weitere Cookies sind beispielsweise _ fbp, sb oder wd. Eine vollständige Aufzählung ist nicht möglich, da Facebook über eine Vielzahl an Cookies verfügt und diese variabel einsetzt.
+
+Der Facebook Login bietet Ihnen einerseits einen schnellen und einfachen Registrierungsprozess, andererseits haben wir so die Möglichkeit Daten mit Facebook zu teilen. Dadurch können wir unser Angebot und unsere Werbeaktionen besser an Ihre Interessen und Bedürfnisse anpassen. Daten, die wir auf diese Weise von Facebook erhalten, sind öffentliche Daten wie
+
+    Ihr Facebook-Name
+    Ihr Profilbild
+    eine hinterlegte E-Mail-Adresse
+    Freundeslisten
+    Buttons-Angaben (z.B. „Gefällt mir“-Button)
+    Geburtstagsdatum
+    Sprache
+    Wohnort
+
+Im Gegenzug stellen wir Facebook Informationen über Ihre Aktivitäten auf unserer Webseite bereit. Das sind unter anderem Informationen über Ihr verwendetes Endgerät, welche Unterseiten Sie bei uns besuchen oder welche Produkte Sie bei uns erworben haben.
+
+Durch die Verwendung von Facebook Login willigen Sie der Datenverarbeitung ein. Sie können diese Vereinbarung jederzeit widerrufen. Wenn Sie mehr Informationen über die Datenverarbeitung durch Facebook erfahren wollen, empfehlen wir Ihnen die Facebook-Datenschutzerklärung unter https://www.facebook.com/policy.php?tid=122007175.
+
+Sofern Sie bei Facebook angemeldet sind, können Sie Ihre Einstellungen für Werbeanzeigen unter https://www.facebook.com/adpreferences/advertisers/?entry_product=ad_settings_screen selbst verändern.
+Facebook Soziale Plug-ins Datenschutzerklärung
+
+Auf unserer Website sind sogenannte soziale Plug-ins des Unternehmens Meta Platforms Inc. eingebaut. Sie erkennen diese Buttons am klassischen Facebook-Logo, wie dem „Gefällt mir“-Button (die Hand mit erhobenem Daumen) oder an einer eindeutigen „Facebook Plug-in“-Kennzeichnung. Ein soziales Plug-in ist ein kleiner Teil von Facebook, der in unsere Seite integriert ist. Jedes Plug-in hat eine eigene Funktion. Die am meisten verwendeten Funktionen sind die bekannten “Gefällt mir”- und “Teilen”-Buttons.
+
+Folgende soziale Plug-ins werden von Facebook angeboten:
+
+    “Speichern”-Button
+    “Gefällt mir”-Button, Teilen, Senden und Zitat
+    Seiten-Plug-in
+    Kommentare
+    Messenger-Plug-in
+    Eingebettete Beiträge und Videoplayer
+    Gruppen-Plug-in
+
+Auf https://developers.facebook.com/docs/plugins erhalten Sie nähere Informationen, wie die einzelnen Plug-ins verwendet werden. Wir nützen die sozialen Plug-ins einerseits, um Ihnen ein besseres Usererlebnis auf unserer Seite zu bieten, andererseits weil Facebook dadurch unsere Werbeanzeigen optimieren kann.
+
+Sofern Sie ein Facebook-Konto haben oder https://www.facebook.com/ schon mal besucht haben, hat Facebook bereits mindestens ein Cookie in Ihrem Browser gesetzt. In diesem Fall sendet Ihr Browser über dieses Cookie Informationen an Facebook, sobald Sie unsere Seite besuchen bzw. mit sozialen Plug-ins (z.B. dem „Gefällt mir“-Button) interagieren.
+
+Die erhaltenen Informationen werden innerhalb von 90 Tagen wieder gelöscht bzw. anonymisiert. Laut Facebook gehören zu diesen Daten Ihre IP-Adresse, welche Webseite Sie besucht haben, das Datum, die Uhrzeit und weitere Informationen, die Ihren Browser betreffen.
+
+Um zu verhindern, dass Facebook während Ihres Besuches auf unserer Webseite viele Daten sammelt und mit den Facebook-Daten verbindet, müssen Sie sich während des Webseitenbesuchs von Facebook abmelden (ausloggen).
+
+Falls Sie bei Facebook nicht angemeldet sind oder kein Facebook-Konto besitzen, sendet Ihr Browser weniger Informationen an Facebook, weil Sie weniger Facebook-Cookies haben. Dennoch können Daten wie beispielsweise Ihre IP-Adresse oder welche Webseite Sie besuchen an Facebook übertragen werden. Wir möchten noch ausdrücklich darauf hinweisen, dass wir über die genauen Inhalte der Daten nicht exakt Bescheid wissen. Wir versuchen aber Sie nach unserem aktuellen Kenntnisstand so gut als möglich über die Datenverarbeitung aufzuklären. Wie Facebook die Daten nutzt, können Sie auch in den Datenrichtline des Unternehmens unter https://www.facebook.com/about/privacy/update nachlesen.
+
+Folgende Cookies werden in Ihrem Browser mindestens gesetzt, wenn Sie eine Webseite mit sozialen Plug-ins von Facebook besuchen:
+
+Name: dpr
+Wert: keine Angabe
+Verwendungszweck: Dieses Cookie wird verwendet, damit die sozialen Plug-ins auf unserer Webseite funktionieren.
+Ablaufdatum: nach Sitzungsende
+
+Name: fr
+Wert: 0jieyh4122007175c2GnlufEJ9..Bde09j…1.0.Bde09j
+Verwendungszweck: Auch das Cookie ist nötig, dass die Plug-ins einwandfrei funktionieren.
+Ablaufdatum:: nach 3 Monaten
+
+Anmerkung: Diese Cookies wurden nach einem Test gesetzt, auch wenn Sie nicht Facebook-Mitglied sind.
+
+Sofern Sie bei Facebook angemeldet sind, können Sie Ihre Einstellungen für Werbeanzeigen unter https://www.facebook.com/adpreferences/advertisers/ selbst verändern. Falls Sie kein Facebook-User sind, können Sie auf https://www.youronlinechoices.com/de/praferenzmanagement/?tid=122007175 grundsätzlich Ihre nutzungsbasierte Online-Werbung verwalten. Dort haben Sie die Möglichkeit, Anbieter zu deaktivieren bzw. zu aktivieren.
+
+Wenn Sie mehr über den Datenschutz von Facebook erfahren wollen, empfehlen wir Ihnen die eigenen Datenrichtlinien des Unternehmens auf https://www.facebook.com/policy.php?tip=122007175.
+Instagram Datenschutzerklärung
+Instagram Datenschutzerklärung Zusammenfassung
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Optimierung unserer Serviceleistung
+📓 Verarbeitete Daten: Daten wie etwa Daten zum Nutzerverhalten, Informationen zu Ihrem Gerät und Ihre IP-Adresse.
+Mehr Details dazu finden Sie weiter unten in der Datenschutzerklärung.
+📅 Speicherdauer: bis Instagram die Daten für ihre Zwecke nicht mehr benötigt
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+Was ist Instagram?
+
+Wir haben auf unserer Webseite Funktionen von Instagram eingebaut. Instagram ist eine Social Media Plattform des Unternehmens Instagram LLC, 1601 Willow Rd, Menlo Park CA 94025, USA. Instagram ist seit 2012 ein Tochterunternehmen von Meta Platforms Inc. und gehört zu den Facebook-Produkten. Das Einbetten von Instagram-Inhalten auf unserer Webseite nennt man Embedding. Dadurch können wir Ihnen Inhalte wie Buttons, Fotos oder Videos von Instagram direkt auf unserer Webseite zeigen. Wenn Sie Webseiten unserer Webpräsenz aufrufen, die eine Instagram-Funktion integriert haben, werden Daten an Instagram übermittelt, gespeichert und verarbeitet. Instagram verwendet dieselben Systeme und Technologien wie Facebook. Ihre Daten werden somit über alle Facebook-Firmen hinweg verarbeitet.
+
+Im Folgenden wollen wir Ihnen einen genaueren Einblick geben, warum Instagram Daten sammelt, um welche Daten es sich handelt und wie Sie die Datenverarbeitung weitgehend kontrollieren können. Da Instagram zu Meta Platforms Inc. gehört, beziehen wir unsere Informationen einerseits von den Instagram-Richtlinien, andererseits allerdings auch von den Meta-Datenschutzrichtlinien selbst.
+
+Instagram ist eines der bekanntesten Social Media Netzwerken weltweit. Instagram kombiniert die Vorteile eines Blogs mit den Vorteilen von audiovisuellen Plattformen wie YouTube oder Vimeo. Sie können auf „Insta“ (wie viele der User die Plattform salopp nennen) Fotos und kurze Videos hochladen, mit verschiedenen Filtern bearbeiten und auch in anderen sozialen Netzwerken verbreiten. Und wenn Sie selbst nicht aktiv sein wollen, können Sie auch nur anderen interessante Users folgen.
+Warum verwenden wir Instagram auf unserer Website?
+
+Instagram ist jene Social Media Plattform, die in den letzten Jahren so richtig durch die Decke ging. Und natürlich haben auch wir auf diesen Boom reagiert. Wir wollen, dass Sie sich auf unserer Webseite so wohl wie möglich fühlen. Darum ist für uns eine abwechslungsreiche Aufbereitung unserer Inhalte selbstverständlich. Durch die eingebetteten Instagram-Funktionen können wir unseren Content mit hilfreichen, lustigen oder spannenden Inhalten aus der Instagram-Welt bereichern. Da Instagram eine Tochtergesellschaft von Facebook ist, können uns die erhobenen Daten auch für personalisierte Werbung auf Facebook dienlich sein. So bekommen unsere Werbeanzeigen nur Menschen, die sich wirklich für unsere Produkte oder Dienstleistungen interessieren.
+
+Instagram nützt die gesammelten Daten auch zu Messungs- und Analysezwecken. Wir bekommen zusammengefasste Statistiken und so mehr Einblick über Ihre Wünsche und Interessen. Wichtig ist zu erwähnen, dass diese Berichte Sie nicht persönlich identifizieren.
+Welche Daten werden von Instagram gespeichert?
+
+Wenn Sie auf eine unserer Seiten stoßen, die Instagram-Funktionen (wie Instagrambilder oder Plug-ins) eingebaut haben, setzt sich Ihr Browser automatisch mit den Servern von Instagram in Verbindung. Dabei werden Daten an Instagram versandt, gespeichert und verarbeitet. Und zwar unabhängig, ob Sie ein Instagram-Konto haben oder nicht. Dazu zählen Informationen über unserer Webseite, über Ihren Computer, über getätigte Käufe, über Werbeanzeigen, die Sie sehen und wie Sie unser Angebot nutzen. Weiters werden auch Datum und Uhrzeit Ihrer Interaktion mit Instagram gespeichert. Wenn Sie ein Instagram-Konto haben bzw. eingeloggt sind, speichert Instagram deutlich mehr Daten über Sie.
+
+Facebook unterscheidet zwischen Kundendaten und Eventdaten. Wir gehen davon aus, dass dies bei Instagram genau so der Fall ist. Kundendaten sind zum Beispiel Name, Adresse, Telefonnummer und IP-Adresse. Diese Kundendaten werden erst an Instagram übermittelt werden, wenn Sie zuvor „gehasht“ wurden. Hashing meint, ein Datensatz wird in eine Zeichenkette verwandelt. Dadurch kann man die Kontaktdaten verschlüsseln. Zudem werden auch die oben genannten „Event-Daten“ übermittelt. Unter „Event-Daten“ versteht Facebook – und folglich auch Instagram – Daten über Ihr Userverhalten. Es kann auch vorkommen, dass Kontaktdaten mit Event-Daten kombiniert werden. Die erhobenen Kontaktdaten werden mit den Daten, die Instagram bereits von Ihnen hat, abgeglichen.
+
+Über kleine Text-Dateien (Cookies), die meist in Ihrem Browser gesetzt werden, werden die gesammelten Daten an Facebook übermittelt. Je nach verwendeten Instagram-Funktionen und ob Sie selbst ein Instagram-Konto haben, werden unterschiedlich viele Daten gespeichert.
+
+Wir gehen davon aus, dass bei Instagram die Datenverarbeitung gleich funktioniert wie bei Facebook. Das bedeutet: wenn Sie ein Instagram-Konto haben oder www.instagram.com besucht haben, hat Instagram zumindest ein Cookie gesetzt. Wenn das der Fall ist, sendet Ihr Browser über das Cookie Infos an Instagram, sobald Sie mit einer Instagram-Funktion in Berührung kommen. Spätestens nach 90 Tagen (nach Abgleichung) werden diese Daten wieder gelöscht bzw. anonymisiert. Obwohl wir uns intensiv mit der Datenverarbeitung von Instagram beschäftigt haben, können wir nicht ganz genau sagen, welche Daten Instagram exakt sammelt und speichert.
+
+Im Folgenden zeigen wir Ihnen Cookies, die in Ihrem Browser mindestens gesetzt werden, wenn Sie auf eine Instagram-Funktion (wie z.B. Button oder ein Insta-Bild) klicken. Bei unserem Test gehen wir davon aus, dass Sie kein Instagram-Konto haben. Wenn Sie bei Instagram eingeloggt sind, werden natürlich deutlich mehr Cookies in Ihrem Browser gesetzt.
+
+Diese Cookies wurden bei unserem Test verwendet:
+
+Name: csrftoken
+Wert: “”
+Verwendungszweck: Dieses Cookie wird mit hoher Wahrscheinlichkeit aus Sicherheitsgründen gesetzt, um Fälschungen von Anfragen zu verhindern. Genauer konnten wir das allerdings nicht in Erfahrung bringen.
+Ablaufdatum: nach einem Jahr
+
+Name: mid
+Wert: “”
+Verwendungszweck: Instagram setzt dieses Cookie, um die eigenen Dienstleistungen und Angebote in und außerhalb von Instagram zu optimieren. Das Cookie legt eine eindeutige User-ID fest.
+Ablaufdatum: nach Ende der Sitzung
+
+Name: fbsr_122007175124024
+Wert: keine Angaben
+Verwendungszweck: Dieses Cookie speichert die Log-in-Anfrage für User der Instagram-App.
+Ablaufdatum: nach Ende der Sitzung
+
+Name: rur
+Wert: ATN
+Verwendungszweck: Dabei handelt es sich um ein Instagram-Cookie, das die Funktionalität auf Instagram gewährleistet.
+Ablaufdatum: nach Ende der Sitzung
+
+Name: urlgen
+Wert: “{”194.96.75.33”: 1901}:1iEtYv:Y833k2_UjKvXgYe122007175”
+Verwendungszweck: Dieses Cookie dient den Marketingzwecken von Instagram.
+Ablaufdatum: nach Ende der Sitzung
+
+Anmerkung: Wir können hier keinen Vollständigkeitsanspruch erheben. Welche Cookies im individuellen Fall gesetzt werden, hängt von den eingebetteten Funktionen und Ihrer Verwendung von Instagram ab.
+Wie lange und wo werden die Daten gespeichert?
+
+Instagram teilt die erhaltenen Informationen zwischen den Facebook-Unternehmen mit externen Partnern und mit Personen, mit denen Sie sich weltweit verbinden. Die Datenverarbeitung erfolgt unter Einhaltung der eigenen Datenrichtlinie. Ihre Daten sind, unter anderem aus Sicherheitsgründen, auf den Facebook-Servern auf der ganzen Welt verteilt. Die meisten dieser Server stehen in den USA.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+
+Dank der Datenschutz Grundverordnung haben Sie das Recht auf Auskunft, Übertragbarkeit, Berichtigung und Löschung Ihrer Daten. In den Instagram-Einstellungen können Sie Ihre Daten verwalten. Wenn Sie Ihre Daten auf Instagram völlig löschen wollen, müssen Sie Ihr Instagram-Konto dauerhaft löschen.
+
+Und so funktioniert die Löschung des Instagram-Kontos:
+
+Öffnen Sie zuerst die Instagram-App. Auf Ihrer Profilseite gehen Sie nach unten und klicken Sie auf „Hilfebereich“. Jetzt kommen Sie auf die Webseite des Unternehmens. Klicken Sie auf der Webseite auf „Verwalten des Kontos“ und dann auf „Dein Konto löschen“.
+
+Wenn Sie Ihr Konto ganz löschen, löscht Instagram Posts wie beispielsweise Ihre Fotos und Status-Updates. Informationen, die andere Personen über Sie geteilt haben, gehören nicht zu Ihrem Konto und werden folglich nicht gelöscht.
+
+Wie bereits oben erwähnt, speichert Instagram Ihre Daten in erster Linie über Cookies. Diese Cookies können Sie in Ihrem Browser verwalten, deaktivieren oder löschen. Abhängig von Ihrem Browser funktioniert die Verwaltung immer ein bisschen anders. Unter dem Abschnitt „Cookies“ finden Sie die entsprechenden Links zu den jeweiligen Anleitungen der bekanntesten Browser.
+
+Sie können auch grundsätzlich Ihren Browser so einrichten, dass Sie immer informiert werden, wenn ein Cookie gesetzt werden soll. Dann können Sie immer individuell entscheiden, ob Sie das Cookie zulassen wollen oder nicht.
+Rechtsgrundlage
+
+Wenn Sie eingewilligt haben, dass Daten von Ihnen durch eingebundene Social-Media-Elemente verarbeitet und gespeichert werden können, gilt diese Einwilligung als Rechtsgrundlage der Datenverarbeitung (Art. 6 Abs. 1 lit. a DSGVO). Grundsätzlich werden Ihre Daten auch auf Grundlage unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) an einer schnellen und guten Kommunikation mit Ihnen oder anderen Kunden und Geschäftspartnern gespeichert und verarbeitet. Wir setzen die eingebundene Social-Media-Elemente gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben. Die meisten Social-Media-Plattformen setzen auch Cookies in Ihrem Browser, um Daten zu speichern. Darum empfehlen wir Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder die Cookie-Richtlinien des jeweiligen Dienstanbieters anzusehen.
+
+Instagram bzw. Facebook verarbeitet Daten u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
+
+Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Facebook von der EU-Kommission genehmigte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Diese Klauseln verpflichten Facebook, das EU-Datenschutzniveau bei der Verarbeitung relevanter Daten auch außerhalb der EU einzuhalten. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss sowie die Klauseln u.a. hier: https://germany.representation.ec.europa.eu/index_de.
+
+Wir haben versucht, Ihnen die wichtigsten Informationen über die Datenverarbeitung durch Instagram näherzubringen. Auf https://help.instagram.com/519522125107875
+können Sie sich noch näher mit den Datenrichtlinien von Instagram auseinandersetzen.
+Blogs und Publikationsmedien Einleitung
+Blogs und Publikationsmedien Datenschutzerklärung Zusammenfassung
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Darstellung und Optimierung unserer Serviceleistung sowie Kommunikation zwischen Websitebesuchern, Sicherheitsmaßnahmen und Verwaltung
+📓 Verarbeitete Daten: Daten wie etwa Kontaktdaten, IP-Adresse und veröffentlichte Inhalte.
+Mehr Details dazu finden Sie bei den eingesetzten Tools.
+📅 Speicherdauer: abhängig von den verwendeten Tools
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen), Art. 6 Abs. 1 S. 1 lit. b. DSGVO (Vertrag)
+Was sind Blogs und Publikationsmedien?
+
+Wir nutzen auf unsere Website Blogs oder auch andere Kommunikationsmittel, mit denen wir einerseits mit Ihnen und andererseits Sie auch mit uns kommunizieren können. Dabei können auch Daten von Ihnen bei uns gespeichert und verarbeitet werden. Das kann notwendig sein, damit wir Inhalte entsprechend darstellen können, die Kommunikation funktioniert und die Sicherheit erhöht wird. In unserem Datenschutztext gehen wir allgemein darauf ein, welche Daten von Ihnen verarbeitet werden können. Exakte Angaben zur Datenverarbeitung hängen stets auch von den verwendeten Tools und Funktionen ab. In den Datenschutzhinweisen der einzelnen Anbieter finden Sie genaue Informationen über die Datenverarbeitung.
+Warum nutzen wir Blogs und Publikationsmedien?
+
+Unser größtes Anliegen mit unserer Website ist Ihnen interessante und spannende Inhalte zu bieten und gleichzeitig sind uns auch Ihre Meinungen und Inhalte wichtig. Darum wollen wir einen guten interaktiven Austausch zwischen uns und Ihnen schaffen. Mit diversen Blogs und Publikationsmöglichkeiten können wir genau das erreichen. Sie können beispielsweise Kommentare zu unseren Inhalten verfassen, andere Kommentare kommentieren oder auch in manchen Fällen selbst Beiträge verfassen.
+Welche Daten werden verarbeitet?
+
+Welche Daten genau verarbeitet werden, hängt stets von den von uns verwendeten Kommunikationsfunktionen ab. Sehr oft werden IP-Adresse, Benutzername und der veröffentlichte Inhalt gespeichert. Das geschieht in erster Linie, um einen Sicherheitsschutz zu gewährleisten, Spam vorzubeugen und um gegen widerrechtliche Inhalte vorgehen zu können. Für die Datenspeicherung können auch Cookies verwendet werden. Das sind kleine Text-Dateien, die mit Informationen in Ihrem Browser abgespeichert werden. Näheres zu den erhobenen und gespeicherten Daten finden Sie in unseren einzelnen Abschnitten und in der Datenschutzerklärung des jeweiligen Anbieters.
+Dauer der Datenverarbeitung
+
+Über die Dauer der Datenverarbeitung informieren wir Sie weiter unten, sofern wir weitere Informationen dazu haben. Beispielsweise speichern Beitrags- und Kommentarfunktionen Daten, bis Sie die Datenspeicherung widerrufen. Generell werden personenbezogene Daten nur so lange, wie es für die Bereitstellung unserer Dienstleistungen unbedingt notwendig ist, gespeichert.
+Widerspruchsrecht
+
+Sie haben auch jederzeit das Recht und die Möglichkeit Ihre Einwilligung zur Verwendung von Cookies bzw. Drittanbietern von Kommunikations-Tools zu widerrufen. Das funktioniert entweder über unser Cookie-Management-Tool oder über andere Opt-Out-Funktionen. Zum Bespiel können Sie auch die Datenerfassung durch Cookies verhindern, indem Sie in Ihrem Browser die Cookies verwalten, deaktivieren oder löschen.
+
+Da bei Publikationsmedien auch Cookies zum Einsatz kommen können, empfehlen wir Ihnen auch unsere allgemeine Datenschutzerklärung über Cookies. Um zu erfahren, welche Daten von Ihnen genau gespeichert und verarbeitet werden, sollten Sie die Datenschutzerklärungen der jeweiligen Tools durchlesen.
+Rechtsgrundlage
+
+Wir setzen die Kommunikationsmittel hauptsächlich auf Grundlage unserer berechtigten Interessen (Art. 6 Abs. 1 lit. f DSGVO) an einer schnellen und guten Kommunikation mit Ihnen oder anderen Kunden, Geschäftspartnern und Besuchern ein. Soweit die Nutzung der Abwicklung von vertraglichen Beziehungen oder deren Anbahnung dient, ist Rechtsgrundlage ferner Art. 6 Abs. 1 S. 1 lit. b. DSGVO.
+
+Bestimmte Verarbeitungen, insbesondere der Einsatz von Cookies sowie die Nutzung von Kommentar- oder Nachrichtenfunktionen bedürfen Ihrer Einwilligung. Wenn und soweit Sie eingewilligt haben, dass Daten von Ihnen durch eingebundene Publikationsmedien verarbeitet und gespeichert werden können, gilt diese Einwilligung als Rechtsgrundlage der Datenverarbeitung (Art. 6 Abs. 1 lit. a DSGVO). Die meisten von uns verwendeten Kommunikationsfunktionen setzen Cookies in Ihrem Browser, um Daten zu speichern. Darum empfehlen wir Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder die Cookie-Richtlinien des jeweiligen Dienstanbieters anzusehen.
+
+Informationen zu speziellen Tools erfahren Sie – sofern vorhanden – in den folgenden Abschnitten.
+Blogbeiträge und Kommentarfunktionen Datenschutzerklärung
+
+Es gibt verschiedenen Online-Kommunikationsmittel, die wir auf unsere Website verwenden können. So nutzen wir beispielweise Blogbeiträge und Kommentarfunktionen. So haben Sie die Möglichkeit, Inhalte auch zu kommentieren bzw. Beiträge zu verfassen. Wenn Sie diese Funktion nutzen, kann aus Sicherheitsgründen etwa Ihre IP-Adresse gespeichert werden. So schützen wir uns vor widerrechtlichen Inhalten wie beispielsweise Beleidigungen, unerlaubte Werbung oder verbotene politische Propaganda. Um zu erkennen, ob es sich bei Kommentaren um Spam handelt, können wir auch auf Grundlage unseres berechtigten Interesses User-Angaben speichern und verarbeiten. Falls wir eine Umfrage starten, speichern wir auch für die Dauer der Umfrage Ihre IP-Adresse, damit wir sicher gehen können, dass alle Beteiligten auch wirklich nur einmal abstimmen. Es können zum Zweck der Speicherung auch Cookies zum Einsatz kommen. Alle Daten, die wir von Ihnen speichern (etwa Inhalte oder Informationen zu Ihrer Person), bleiben bis zu Ihrem Widerspruch gespeichert.
+Blogger.com Datenschutzerklärung
+
+Wir nutzen auf unserer Website auch die Hosting- und Bloggerplattform Blogger.com. Dienstanbieter ist das amerikanische Unternehmen Google Inc. Für den europäischen Raum ist das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) für alle Google-Dienste verantwortlich.
+
+Google verarbeitet Daten u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
+
+Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Google von der EU-Kommission genehmigte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Diese Klauseln verpflichten Google, das EU-Datenschutzniveau bei der Verarbeitung relevanter Daten auch außerhalb der EU einzuhalten. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss sowie die Klauseln u.a. hier: https://germany.representation.ec.europa.eu/index_de.
+
+Mehr über die Daten, die durch die Verwendung von Google verarbeitet werden, erfahren Sie in der Privacy Policy auf https://policies.google.com/privacy?hl=de.
+
+Alle Texte sind urheberrechtlich geschützt.
+
+Quelle: Erstellt mit dem Datenschutz Generator von AdSimple

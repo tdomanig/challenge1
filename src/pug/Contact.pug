@@ -1,0 +1,74 @@
+doctype html
+html(lang="de")
+    include mixins/head.pug
+
+body()
+    main
+        include mixins/nav.pug
+        div(class="flex items-center justify-center w-screen h-auto mt-10 flex-col")
+            form(action="submit" method="post" class="visible flex flex-row  mx-auto " id="inputform")
+                div(class="")
+
+                    div(class="flex justify-between h-[55px] w-[450px]")
+                        label(for="Vorname" class="my-auto") Vorname
+                        input(type="text" id="Vorname" class="inputfield" required="required")
+                        
+
+                    div(class="flex justify-between h-[55px] w-[450px]")
+                        label(for="Nachname" class="my-auto") Nachname
+                        input(type="text" id="Nachname"  class="inputfield" required="required")
+                        
+
+                    div(class="flex justify-between h-[55px] w-[450px]")
+                        label(for="Mail" class="my-auto") E-Mail
+                        input(type="email" id="Mail"  class="inputfield" required="required")
+                        
+
+                    div(class="flex justify-between h-[55px] w-[450px]")
+                        label(for="Telefonnummer" class="my-auto") Telefonnummer
+                        input(type="text" id="Telefonnummer" class="inputfield" required="required")
+                        
+
+                    div(class="flex justify-between h-[55px] w-[165px]")
+                        label(for="CheckAgbs" class="my-auto") AGB's
+                        input(type="checkbox" id="CheckAgbs" class="my-auto" )
+
+                    div(class="flex justify-between h-[55px] w-[165px]")
+                        label(for="rad1" class="my-auto") Radio1
+                        input(type="radio" name="radios" id="rad1" class="my-auto")
+
+                    div(class="flex justify-between h-[55px] w-[165px]")
+                        label(for="rad2" class="my-auto") Radio2
+                        input(type="radio" name="radios" id="rad2" class="my-auto")
+                
+                    Button(type="button" name="submit"  onclick="validate()" class="h-[40px] w-[100px] border-2 hover:bg-black hover:text-white") Submit
+                
+                div(id="error" class="w-[400px] flex flex-col ml-[25px] ")    
+                    span(id="ErrormessageFirstName" class="inputerror ")      
+                    span(id="ErrormessageLastName" class="inputerror ")
+                    span(id="ErrormessageMail" class="inputerror")
+                    span(id="ErrormessageNumber" class="inputerror")
+                    span(id="ErrormessageAgb" class="inputerror")
+                    span(id="Errormessageradio" class="inputerror")
+
+            div(id="popup" class=" invisible w-[400px] h-[300px] border-2 mt-[32px] mb-8 fixed top-[130px] " )
+                
+                div(id="popupheader" class="w-[350px] h-[35px] flex justify-between mx-auto ")
+                    span(id="popuptitle" class="text-lg") Output
+                    button(id="close" class="h-[25px] w-[25px] border-2 bg-red-500 " onclick="closepopup()") X
+                
+                div(id="outputsection" class="flex flex-col ml-8")
+                    ul
+                        li(id="outFirstname" class="mt-3") 
+                        li(id="outLastname" class="mt-3") 
+                        li(id="outMail" class="mt-3") 
+                        li(id="outPhone" class="mt-3") 
+                        li(id="outAgb" class="mt-3") 
+                        li(id="outradio" class="mt-3") 
+
+
+        div(class="absolute bottom-0")
+            include mixins/footer.pug
+
+    script(src="./../src/scripts/Contact.js")
+        

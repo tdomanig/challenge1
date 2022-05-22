@@ -1,0 +1,89 @@
+doctype html
+html(lang="en")
+    include mixins/head.pug
+
+body
+    include mixins/nav.pug
+    article(class="flex flex-col bganimation:flex-row  w-screen min-h-[1000px]")
+
+    
+                
+        div(class="bg-[url('images/cool-background.png')] w-screen bganimation:w-1/2 text-[40px] flex justify-center bg-no-repeat bg-cover " ) 
+           
+                
+            
+           
+
+            div(class="mt-[500px]")
+                    div(id="arrows1" class="my-[45px] opacity-0")
+                        include mixins/svgs/arrow.pug
+
+                    div(id="arrows2" class="my-[95px] opacity-0")
+                        include mixins/svgs/arrow2.pug
+
+                    div(id="arrows3" class="my-[95px] opacity-0")
+                        include mixins/svgs/arrow3.pug
+
+                    div(id="arrows4" class="my-[95px] opacity-0")
+                        include mixins/svgs/arrow4.pug
+
+                    div(id="arrows5" class="my-[95px] opacity-0")
+                        include mixins/svgs/arrow5.pug
+
+                    div(id="arrows6" class="my-[95px] opacity-0")
+                        include mixins/svgs/arrow6.pug
+
+
+
+
+
+            div(id="timeline" class="w-[14px] flex flex-col h-fit justify-items-center mt-[565px] mx-[30px]")
+
+                    div(class="timelinestyledot" id="dot") 
+                    div(class="timelinestyleline" id="line1")
+                    div(class="timelinestyledot" id="dot") 
+                    div(class="timelinestyleline" id="line2")
+                    div(class="timelinestyledot" id="dot") 
+                    div(class="timelinestyleline" id="line3")
+                    div(class="timelinestyledot" id="dot") 
+                    div(class="timelinestyleline" id="line4")
+                    div(class="timelinestyledot" id="dot") 
+                    div(class="timelinestyleline" id="line5")
+                    div(class="timelinestyledot" id="dot") 
+
+            div(class="h-[120px]  w-1/2 mt-[500px] ")
+
+                    div(class="timelinecontent" id="timelinecontent1")
+                    div(class="timelinecontent" id="timelinecontent2")
+                    div(class="timelinecontent" id="timelinecontent3")
+                    div(class="timelinecontent" id="timelinecontent4")
+                    div(class="timelinecontent" id="timelinecontent5")
+                    div(class="timelinecontent" id="timelinecontent6")
+     
+
+
+                
+            div(id="Content" class="flex flex-col ml-1 w-full h-fit mb-0")
+                p(class="text-[40px] underline  ") About me:
+                br
+                br
+                p(class="text-[20px]") Alter:25 
+                br
+                p(class="text-[20px]") Ehrgeizig, Wissensdurstig, Freundlich
+                br
+                p(class="text-[20px]") Alpiner Bergsteiger und Sportschütze 
+                br
+                p(class="text-[20px]") Sehr interessiert an Webentwicklung und IT-Security
+
+        div(class=" bganimation:sticky bganimation:w-1/2 top-0 h-screen w-screen")
+
+            div(class="bg-[url('images/Ich2.JPG')] bg-cover bg-center bg-no-repeat h-screen bg-[width:600px] bg-[height:100vh]   " id="pic") 
+
+
+
+
+
+
+    include mixins/footer.pug
+script(src="./../src/scripts/animations.js")
+script(src="./../src/frontend/about.js")

@@ -1,0 +1,26 @@
+header(class="w-screen h-[75px] items-center flex justify-between bg-Header-color")
+
+    div(class="ml-[30px]" id="LOGO")
+        span  Challenge1@Codingschool
+
+    div(class="flex flex-row justify-between w-[500px] mr-[30px]" id="nav-bar")
+
+        div(class="Portfolio:visible invisible " id="HOME") 
+            a(href="index.html" class="") Home
+        div(class="Portfolio:visible invisible" id="PORTFOLIO") 
+            a(href="Portfolio.html" class="") Portfolio
+        div(class="Portfolio:visible invisible" id="ABOUT")  
+            a(href="about.html" class="") About
+        div(class="Portfolio:visible invisible" id="CONTACT")
+            a(href="Contact.html" class="") Contact
+
+        div(class="h-8 w-8")
+            button(aria-label="hidden" id="menubtn" type="button" class="visible Portfolio:invisible bg-[url('./icons/icon_burger_menu.png')] bg-center bg-no-repeat h-8 w-8")
+            div(id="dropdown" class="bg-gray-200  flex-col rounded mt-1 p-2 text-sm w-fit hidden relative z-50 ")
+                a(href="index.html" class="") Home
+                a(href="Portfolio.html" class="") Portfolio
+                a(href="about.html" class="") About
+                a(href="Contact.html" class="") Contact
+        
+script(src="./../src/scripts/burger.js")
+    

@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base{
+body {
+    font-family: Akshar, sans-serif;;
+
+}
+}
+
+.timelinestyledot{
+@apply w-[14px] h-[14px] bg-black rounded-full
+}
+.timelinestyleline{
+@apply h-[130px] w-[2px] mx-auto bg-black
+}
+.timelinecontent{
+@apply h-[120px] w-[250px] bg-white mt-[20px] mr-3  rounded-[12px] opacity-0 text-lg flex items-center text-center p-10
+}
+.bggradient{
+@apply   bg-background-color
+}
+.button{
+@apply bg-Button-color text-center h-[35px] w-[150px] border-2 border-Button-color rounded-lg text-xl text-yellow-50 font-bold mt-[25px] transition ease-in-out hover:-translate-y-1 hover:scale-110 hover:bg-Header-color hover:border-Header-color duration-300
+}
+.projectcontainer{@apply flex
+     justify-between max-w-full h-fit  mx-5 my-[200px] flex-col Portfolio:flex-row Portfolio:h-[600px] Portfolio:my-3}
+.projectdescription{@apply h-[150px] w-[690px]  m-auto opacity-0}
+.projectimage{@apply h-[300px] w-[300px] Portfolio:h-[400px] Portfolio:w-[400px]   m-auto  bg-cover bg-center bg-no-repeat opacity-0}
+.projecttitle{@apply text-[25px] Portfolio:text-[40px] underline }
+.projectcontent{@apply text-[15px] Portfolio:text-[25px] }
+.projectdate{@apply text-[30px] }
+
+.inputfield{@apply  border-2 h-[35px] w-[250px] my-auto  }
+
+.inputerror{@apply  text-sm my-[17px]  text-red-600 h-[20px]}

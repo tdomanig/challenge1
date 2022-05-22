@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "fastify": "^3.28.0",
+    "fastify-cors": "^6.0.3",
+    "fetch": "^1.1.0",
+    "file-reader": "^1.1.1",
+    "node-fetch": "^3.2.3",
+    "pug": "^3.0.2",
+    "tailwindcss": "^3.0.24"
+  },
+  "name": "challenge1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js &&  npx tailwindcss -i src/input.css -o ./public/index.css && node  ./src/backend/backend.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
